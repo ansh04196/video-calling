@@ -3,7 +3,12 @@
 
 
 Overview
-This is a simple video calling app that allows users to make real-time video calls using WebRTC technology. It has been built using HTML, JavaScript, Tailwind CSS for the frontend, Scaledrone for signaling, and Firebase for hosting.
+This is a simple video-calling app that allows users to make real-time video calls using WebRTC technology. It has been built using HTML, JavaScript, Tailwind CSS for the frontend, Scaledrone for signaling, and Firebase for hosting.
+
+
+
+The Website is live at: https://ansh04196.github.io/video-calling/#dcd0a2
+
 
 Features
 Real-time video calling
